@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-scheduler-amd64:v3.1.2
+From gcr.io/google-containers/etcd-amd64
 MAINTAINER yuyantao1987@163.com
